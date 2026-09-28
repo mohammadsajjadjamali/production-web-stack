@@ -182,10 +182,10 @@ http://localhost:9090
 
 Grafana:
 
-```text
-http://localhost:3001
+`http://localhost:3001`
 
 ## Monitoring Dashboard
+
 ![Grafana Dashboard](grafana-dashboard.png)
 
 ```
